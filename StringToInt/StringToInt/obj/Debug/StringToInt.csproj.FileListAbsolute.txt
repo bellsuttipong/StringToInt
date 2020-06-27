@@ -1,0 +1,9 @@
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\bin\Debug\StringToInt.exe.config
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\bin\Debug\StringToInt.exe
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\bin\Debug\StringToInt.pdb
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\obj\Debug\StringToInt.Form1.resources
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\obj\Debug\StringToInt.Properties.Resources.resources
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\obj\Debug\StringToInt.csproj.GenerateResource.cache
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\obj\Debug\StringToInt.csproj.CoreCompileInputs.cache
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\obj\Debug\StringToInt.exe
+C:\Users\BeLL4\source\repos\StringToInt\StringToInt\obj\Debug\StringToInt.pdb
